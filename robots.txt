@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dumpster-rental-new-york.vercel.app/sitemap.xml
